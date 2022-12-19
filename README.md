@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**DopeIcarus/DopeIcarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Icarus
+## About Me
+Hi, im icarus and i love to programm with Java. I especially love to make little troll applications like the Discord Webhook Nuker.
+## About My Stuff
+- Im not responsible for any kind of bans or things you do with my applications.
+- For educational purposes only
+## Skills
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- C
+- C++
+- C#
